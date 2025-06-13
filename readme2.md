@@ -160,16 +160,7 @@ You can easily track what each agent is doing and troubleshoot problems.
 
 ### 🎯 Try MCP Concepts in Langflow
 
-#### Option 1: Local Installation
-1. **Install Langflow**
-   ```bash
-   pip install langflow
-   langflow run
-   ```
-
-2. **Open your browser** to `http://localhost:7860`
-
-#### Option 2: DataStax Astra (Recommended for Beginners) ⭐
+#### Option 2: DataStax Astra ⭐
 **The easiest way to get started without any installation!**
 
 1. **Visit DataStax Astra Platform**
