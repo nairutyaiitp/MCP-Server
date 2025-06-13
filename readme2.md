@@ -226,30 +226,12 @@ Once you're in Langflow on Astra:
 - **LangChain Expression Language (LCEL)**: Code-based but clear workflow definition
 - **CrewAI Studio**: Visual interface for multi-agent teams
 
-## Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🐛 **Report bugs** by opening an issue
-2. 💡 **Suggest features** or improvements
-3. 📝 **Improve documentation** 
-4. 🔧 **Submit pull requests** with code improvements
-
-### Contribution Guidelines
-- Keep explanations beginner-friendly
-- Include code examples for new concepts
-- Test all code before submitting
-- Update documentation as needed
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Inspired by the need for better AI agent coordination
-- Thanks to the open-source AI community
-- Built with love for AI beginners 💚
 
 ---
 
